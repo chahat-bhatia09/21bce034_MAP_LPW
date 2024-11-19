@@ -1,0 +1,12 @@
+To create container: docker container run [image name] 
+To build image: docker build [path]  
+
+To pull image from docker registry: docker pull [image name]
+
+To push image to docker registry: docker push [image name]
+
+To stop ruynning containers: docker container kill [container]
+
+To remove image: docker image rm image
+
+Removes a running container:docker rm container
